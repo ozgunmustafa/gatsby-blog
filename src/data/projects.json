@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "title": "Reflex Frontend Development",
+    "description": "",
+    "logo": "https://resimyukle.imageupload.workers.dev/G4cYn6nY_screen5.jpg",
+    "url": "https://cv.ozgunmustafa.com/works/reflex/index.html",
+    "tools": [
+      "html",
+      "css",
+      "javascript",
+      "scss",
+      "bootstrap"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "YDS.net Frontend Development",
+    "description": "",
+    "logo": "https://resimyukle.imageupload.workers.dev/G4cYn6nY_screen5.jpg",
+    "url": "https://cv.ozgunmustafa.com/works/yds/index.html",
+    "tools": [
+      "html",
+      "css",
+      "javascript",
+      "scss",
+      "vue",
+      "bootstrap"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Eticaret Sitesi Deneme Tasarımı",
+    "description": "",
+    "logo": "https://resimyukle.imageupload.workers.dev/G4cYn6nY_screen5.jpg",
+    "url": "https://cv.ozgunmustafa.com/works/ecommerce/index.html",
+    "tools": [
+      "html",
+      "css",
+      "javascript",
+      "scss",
+      "vue",
+      "bootstrap"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Kocaer Frontend Development",
+    "description": "",
+    "logo": "https://resimyukle.imageupload.workers.dev/G4cYn6nY_screen5.jpg",
+    "url": "https://cv.ozgunmustafa.com/works/kocaertekstil/index.html",
+    "tools": [
+      "html",
+      "css",
+      "javascript",
+      "scss",
+      "bootstrap"
+    ]
+  }
+]

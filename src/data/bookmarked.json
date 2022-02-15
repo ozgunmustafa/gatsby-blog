@@ -1,0 +1,148 @@
+[
+    {
+        "baseUrl": "3dicons.co",
+        "url": "https://3dicons.co/",
+        "description": "Açık kaynak, 3 Boyutlu icon kütüphanesi.",
+        "categories": [
+            "Icon",
+            "3D",
+            "SVG",
+            "Figma",
+            "XD"
+        ]
+    },
+    {
+        "baseUrl": "uibakery.io",
+        "url": "https://uibakery.io/regex-library",
+        "description": "Farklı programlama dilleri için farklı formattaki regex ifadeleri bulabilirsiniz.",
+        "categories": [
+            "Regex",
+            "Javascript"
+        ]
+    },
+    {
+        "baseUrl": "homies.craftwork.design",
+        "url": "https://homies.craftwork.design/",
+        "description": "Çok güzel 3D karakterler, objeler, arkaplanlar ve sahneler bulunuyor.",
+        "categories": [
+            "3D",
+            "Icon",
+            "Figma"
+        ]
+    },
+    {
+        "baseUrl": "educative.io",
+        "url": "https://www.educative.io/blog/javascript-map-set",
+        "description": "Javascriptte Map ve Set sınıfları ne işe yarar? Nasıl kullanılır?",
+        "categories": [
+            "Javascript",
+            "Article",
+            "Blog",
+            "Developer"
+        ]
+    },
+    {
+        "baseUrl": "tech-blogs.dev",
+        "url": "https://tech-blogs.dev/",
+        "description": "Konu başlıklarına göre, geliştiriciler için faydalı makalelerin listesini bu sitede bulabilirsiniz.",
+        "categories": [
+            "Blog",
+            "Article",
+            "Developer"
+        ]
+    },
+    {
+        "baseUrl": "frontend.horse",
+        "url": "https://frontend.horse/",
+        "description": "Frontend Development konusunda çok güzel içerikler bulabilirsiniz.",
+        "categories": [
+            "Frontend",
+            "Article",
+            "Blog"
+        ]
+    },
+    {
+        "baseUrl": "app.haikei.app",
+        "url": "https://app.haikei.app/",
+        "description": "Bir çok seçenek sunan, çok çeşitli desenlere sahip, benzersiz arkaplanlar oluşturabilmeniz için harika bir araç",
+        "categories": [
+            "Background",
+            "SVG",
+            "PNG"
+        ]
+    },
+    {
+        "baseUrl": "tool.graphics",
+        "url": "https://tool.graphics/",
+        "description": "Yaratıcı projeleriniz için çeşitli sanat anlayışlarıyla oluşturulmuş arkaplanları burada bulabilir, SVG ve JPEG formatında çıktı alabilirsiniz.",
+        "categories": [
+            "Background",
+            "SVG",
+            "JPEG",
+            "Art",
+            "Creative",
+            "Resources"
+        ]
+    },
+    {
+        "baseUrl": "fffuel.co",
+        "url": "https://fffuel.co/",
+        "description": "fffuel, gradyanlar, desenler, arka planlar ve dekoratif grafikler oluşturmanız için pek çok araç sunuyor.",
+        "categories": [
+            "Background",
+            "SVG",
+            "Art",
+            "Creative",
+            "Tools"
+        ]
+    },
+    {
+        "baseUrl": "roadmap.sh",
+        "url": "https://roadmap.sh/",
+        "description": "Yazılımcı olmak isteyenlerin en büyük sıkıntısı olan nereden başlayacağını bilmemek ve planlı bir yol haritasının olmaması sorununa çözüm üretiyor. Geliştiricinin yönelmek istediği alan için bir yol haritasını ve bu yolculukta ihtiyaç duyacağı kaynakları listeliyor.",
+        "categories": [
+            "Roadmap",
+            "Resources",
+            "Art",
+            "Creative"
+        ]
+    },
+    {
+        "baseUrl": "daisyui.com",
+        "url": "https://daisyui.com/",
+        "description": "Harika Tailwind CSS komponentlerini bulabileceğiniz güzel bir araç.",
+        "categories": [
+            "HTML",
+            "CSS",
+            "Tailwind"
+        ]
+    },
+    {
+        "baseUrl": "erbilen.net",
+        "url": "http://www.erbilen.net/css-flex-ile-ilgili-her-sey/",
+        "description": "CSS Flex yapısını öğrenebileceğiniz güzel bir kaynak.",
+        "categories": [
+            "HTML",
+            "CSS"
+        ]
+    },
+    {
+        "baseUrl": "mockaroo.com",
+        "url": "https://www.mockaroo.com/",
+        "description": "Rastgele veri oluşturma aracı",
+        "categories": [
+            "Data",
+            "JSON",
+            "Tools"
+        ]
+    },
+    {
+        "baseUrl": "github.com/thedaviddias",
+        "url": "https://github.com/thedaviddias/Front-End-Performance-Checklist",
+        "description": "'Neden?' ve 'Nasıl' sorularının üzerinde durarak frontend geliştiricilerinin dikkat etmesi gereken performans kriterlerini ele alan güzel bir repo.   ",
+        "categories": [
+            "JSON",
+            "Tools"
+        ]
+    }
+]
